@@ -32,3 +32,6 @@ CPUUtilization > 80% for 5 minutes
 MemoryUsedPercent > 85% When thresholds were breached, Amazon SNS (Simple Notification Service) was triggered to send an email alert to my registered email address.
 
 Custom Dashboards: I created a CloudWatch Dashboard to visualize all key metrics in one view. This included line graphs and numeric displays for performance tracking
+
+# OUTPUT
+<img width="1366" height="636" alt="Image" src="https://github.com/user-attachments/assets/ffe631ee-9ebe-4058-9faa-f12887800859" />
