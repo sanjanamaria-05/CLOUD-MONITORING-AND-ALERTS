@@ -35,3 +35,4 @@ Custom Dashboards: I created a CloudWatch Dashboard to visualize all key metrics
 
 # OUTPUT
 <img width="1366" height="636" alt="Image" src="https://github.com/user-attachments/assets/ffe631ee-9ebe-4058-9faa-f12887800859" />
+<img width="1366" height="636" alt="Image" src="https://github.com/user-attachments/assets/fd89f302-3dfa-49d2-85c1-b4c6a5ea8951" />
